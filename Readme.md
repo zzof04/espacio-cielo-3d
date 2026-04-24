@@ -1,5 +1,6 @@
-##PÁGINA PINTURA
+#PÁGINA PINTURA
 
+```js
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -96,4 +97,4 @@ renderer.setSize(window.innerWidth, window.innerHeight);
 </script>
 </body>
 </html>
-
+```
